@@ -78,8 +78,10 @@
                     <div class="card-body">
                         <h5 class="card-title">Rating dan ulasan</h5>
                         <hr>
-                        <p class="card-text"> 4.6/5.0 <i class="bi bi-star-fill" style="color:yellow"></i> (3 Rating)</p> 
-
+                        <p class="card-text fw-bold fst-italic"> 4.6/5.0 <i class="bi bi-star-fill" style="color:yellow"></i> (3 Rating)</p> 
+                        <p class="card-text">- 5.0 <i class="bi bi-star-fill" style="color:yellow"></i><i>11/11/2024 - Andreas</i> "Aplikasi yang sangat membantu dalam menulis dokumen. Sangat direkomendasikan!"</p>
+                        <p class="card-text">- 4.6 <i class="bi bi-star-fill" style="color:yellow"></i><i>11/11/2024 - Andreas</i> "Fitur-fitur yang disediakan sangat lengkap. Sangat memudahkan dalam menulis dokumen."</p>
+                        <p class="card-text">- 4.6 <i class="bi bi-star-fill" style="color:yellow"></i><i>11/11/2024 - Andreas</i> "Aplikasi yang sangat bagus. Sangat membantu dalam menulis dokumen."</p>
                     </div>
                 </div>
 
