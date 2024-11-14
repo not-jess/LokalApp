@@ -1,0 +1,45 @@
+.primary-app {
+    height: 400px!important;
+}
+
+.primary-app img {
+    height: 100%;
+    width: 300px!important;
+}
+
+.app {
+    height:240px!important;
+    width:100px!important;
+    border-radius: 10px!important;
+}
+
+.app img {
+    height: 100px;
+    width: 100px;
+}
+
+.btn:hover {
+    text-decoration: underline;
+}
+
+#search {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#searchBtn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#searchBtn:hover {
+    text-decoration: none;
+}
+
+div.card a {
+    text-decoration: none!important;
+    color:blanchedalmond
+}
+
+div.card a:hover {
+    color:white;
+}
